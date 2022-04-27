@@ -21,6 +21,17 @@ IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMPILED VERSION, YOU MUST OPEN 
 
 This engine was made with love to my community and the people that want to make an fnf mod easier.
 
+## What This Engine Includes
+This engine includes some interesting and useful features like:
+Adding Credits Via A Text File.
+Adding Week Names Easily Via A Text File.
+Some Modified Menus.
+Loading Screen.
+Changed And Fixed Inputs.
+Accuracy And Misses Counter.
+Rates.
+Custom Healthbar Colors.
+
 ## Build instructions
 
 THESE INSTRUCTIONS ARE FOR COMPILING THE GAME'S SOURCE CODE!!!
