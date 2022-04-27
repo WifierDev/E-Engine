@@ -31,6 +31,8 @@ Changed And Fixed Inputs.
 Accuracy And Misses Counter.
 Rates.
 Custom Healthbar Colors.
+You Are Able To Change The Noteskins On The Chart Editor, This Only Affects The Opponent Strums, So Every Character Has Their Own Note Skins.
+And More Features That You Are Going To Discover If You Download The Engine.
 
 ## Build instructions
 
